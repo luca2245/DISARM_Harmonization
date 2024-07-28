@@ -1,0 +1,6 @@
+nibabel==5.2.1
+torch==2.0.1
+torchaudio==2.0.2
+torchio==0.19.6
+torchvision==0.15.2
+tensorboardX==2.6.2.2
